@@ -1,0 +1,3 @@
+furnitureCode= 101,furnitureType= Table,gradeOfFurniture= grade1,furnitureUsage= Outdoor,price= 10.0
+
+ Discounted price is $9.5
